@@ -4,3 +4,5 @@ My project in the course TNM084 Procedural images where I've created a code in W
 ![alt text](https://raw.githubusercontent.com/SofiaSproge/Procedural-planet-generation-TNM084/main/pics/250_world.png)
 
 ![alt text](https://raw.githubusercontent.com/SofiaSproge/Procedural-planet-generation-TNM084/main/pics/250_world_2.png)
+
+![alt text](https://raw.githubusercontent.com/SofiaSproge/Procedural-planet-generation-TNM084/main/pics/w2_2765.png)
